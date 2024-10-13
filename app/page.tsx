@@ -1,7 +1,7 @@
-export default function Home() {
-  return (
-    <div>
-      <h1>Hello</h1>
-    </div>
-  );
+export default function App() {
+    return (
+        <div className="w-full">
+            
+        </div>
+    )
 }
